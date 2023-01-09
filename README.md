@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repo de prueba de modulo 2
+buenas, simple prueba para clonar el repositorio de github y modificarlo de manera local :)
